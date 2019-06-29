@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NYTimes Most Popular</string>
+    <string name="unit_test_api_key">BAPXQfnmYonqD2gtcnyJgGIAH43H2OwZ</string>
+
+</resources>
